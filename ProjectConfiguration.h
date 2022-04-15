@@ -3,7 +3,7 @@
 #ifndef ProjectConfigurationDevApp_h
 #define ProjectConfigurationDevApp_h
 
-	#define MULTIPUNTAMENTO
-	#define OMVLICENSE @"openpaybankplugin-sci-demoapp-dev-ios"
+	#undef MULTIPUNTAMENTO
+	#define OMVLICENSE @"openpaybankplugin-sci-demoapp-github-ios"
 
 #endif /* ProjectConfigurationDevApp_h*/
