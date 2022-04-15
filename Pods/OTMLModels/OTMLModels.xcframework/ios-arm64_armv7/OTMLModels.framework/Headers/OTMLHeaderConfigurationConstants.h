@@ -1,0 +1,76 @@
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_ds;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_bar_entries_element;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_bg_color;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_bg_image;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_bg_image_v2;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_ios_bg_image_v2;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_android_bg_image_v2;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_label_title_font;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_label_subtitle_font;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_menu_icon;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_back_icon;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_icon_disabled_alpha;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_logo;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_button_font;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_button_color_p;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_textfield_color_n;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_textfield_placeholder;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_textfield_mode;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_textfield_font;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_textfield_bg_image;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_textfield_delete_icon;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_textfield_nc_key;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_search_textfield_dismissed_key;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_search_button_dismissed_font;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_textfield_nc_delay;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_title;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_header_subtitle;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_show_menu;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_menu_button_right;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_show_back;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_back_button_right;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_bottom_line_height;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_bottom_line_color;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_show_bottom_line;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_textfield_done_text;
+
+extern NSString* const c_OTMLHeaderConfigurationConstants_otml_native_back_accessibility_id;
+
+
+
+@interface OTMLHeaderConfigurationConstants : NSObject
+@end

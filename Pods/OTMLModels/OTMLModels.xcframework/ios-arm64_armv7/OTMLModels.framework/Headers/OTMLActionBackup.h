@@ -1,0 +1,30 @@
+extern NSString* const c_OTMLActionBackup_action_type_backup_value_put;
+
+extern NSString* const c_OTMLActionBackup_action_type_backup_value_put_param_otml_value;
+
+extern NSString* const c_OTMLActionBackup_action_type_backup_value_put_trigger_failed;
+
+extern NSString* const c_OTMLActionBackup_action_type_backup_value_delete;
+
+extern NSString* const c_OTMLActionBackup_action_type_backup_value_delete_param_otml_value;
+
+extern NSString* const c_OTMLActionBackup_action_type_backup_value_delete_trigger_failed;
+
+extern NSString* const c_OTMLActionBackup_action_type_backup_value_delete_file;
+
+extern NSString* const c_OTMLActionBackup_action_type_backup_value_delete_file_trigger_failed;
+
+extern NSString* const c_OTMLActionBackup_action_type_backup_value_delete_all_files;
+
+extern NSString* const c_OTMLActionBackup_action_type_backup_value_delete_all_files_trigger_failed;
+
+extern NSString* const c_OTMLActionBackup_param_otml_filename;
+
+extern NSString* const c_OTMLActionBackup_action_type_backup_trigger_error_store_quota_violation_change;
+
+extern NSString* const c_OTMLActionBackup_action_type_backup_trigger_error_store_account_change;
+
+
+
+@interface OTMLActionBackup : NSObject
+@end

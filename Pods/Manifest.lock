@@ -1,0 +1,72 @@
+PODS:
+  - Charts (3.5.0):
+    - Charts/Core (= 3.5.0)
+  - Charts/Core (3.5.0)
+  - DYCoding (1.0)
+  - libPhoneNumber-iOS (0.9.15)
+  - lottie-ios (2.5.3)
+  - OTBANKPLUGIN (0.0.4):
+    - OTML
+    - OTMLCore
+    - OTMLModels
+  - OTML (0.0.4):
+    - Charts (= 3.5)
+    - DYCoding
+    - libPhoneNumber-iOS (~> 0.8)
+    - lottie-ios (= 2.5.3)
+    - OTMLCore
+    - OTMLModels
+    - SMJJSONPath
+    - TBXML
+    - TOCropViewController
+    - ZXingObjC
+  - OTMLCore (0.0.4):
+    - SAMKeychain
+  - OTMLModels (0.0.4):
+    - TBXML
+  - SAMKeychain (1.5.3)
+  - SMJJSONPath (0.2.3)
+  - TBXML (1.5)
+  - TOCropViewController (2.6.1)
+  - ZXingObjC (3.6.5):
+    - ZXingObjC/All (= 3.6.5)
+  - ZXingObjC/All (3.6.5)
+
+DEPENDENCIES:
+  - OTBANKPLUGIN
+
+SPEC REPOS:
+  "git@github.com:opentech-com/openpay_bank_plugin_specs.git":
+    - OTBANKPLUGIN
+    - OTML
+    - OTMLCore
+    - OTMLModels
+  https://github.com/CocoaPods/Specs.git:
+    - Charts
+    - DYCoding
+    - libPhoneNumber-iOS
+    - lottie-ios
+    - SAMKeychain
+    - SMJJSONPath
+    - TBXML
+    - TOCropViewController
+    - ZXingObjC
+
+SPEC CHECKSUMS:
+  Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
+  DYCoding: d598c00d5900fe069faae3f4002bbf1479f699a1
+  libPhoneNumber-iOS: 0a32a9525cf8744fe02c5206eb30d571e38f7d75
+  lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
+  OTBANKPLUGIN: 519daccdd8683b77430b886b93267682384442a8
+  OTML: c260ed4da79c067b5b2084fae2e65c0a33de8af3
+  OTMLCore: 02eeec53860929746fbce4ae9d2badc7de4d5f5d
+  OTMLModels: cb8212dbbe4b139c1a50a4b4c588d4de8309d0c7
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+  SMJJSONPath: f17ad811ebac9f68ea304f89a354c27653975021
+  TBXML: 9f9dadb239f2f2af1dadb87fe43a0ce6e479379a
+  TOCropViewController: edfd4f25713d56905ad1e0b9f5be3fbe0f59c863
+  ZXingObjC: fdbb269f25dd2032da343e06f10224d62f537bdb
+
+PODFILE CHECKSUM: 8129fdd6904bfe95d764c3145e65aefabca0c47e
+
+COCOAPODS: 1.11.2

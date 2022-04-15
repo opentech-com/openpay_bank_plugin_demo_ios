@@ -1,0 +1,11 @@
+framework module OTML {
+  umbrella header "OTML-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module OTML.Swift {
+    header "OTML-Swift.h"
+    requires objc
+}

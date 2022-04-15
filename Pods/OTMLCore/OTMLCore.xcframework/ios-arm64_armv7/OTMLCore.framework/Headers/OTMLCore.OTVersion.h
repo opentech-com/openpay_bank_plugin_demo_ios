@@ -1,0 +1,1 @@
+#define OTMLCore_version @"c406815" //short git version of following full git version c406815a852e78b827ee1ab4a742c16b1751ad78

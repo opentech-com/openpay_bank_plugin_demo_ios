@@ -1,0 +1,42 @@
+extern NSString* const c_OTMLUpdaterConstants_trigger_otml_updater_did_check_update_available;
+
+extern NSString* const c_OTMLUpdaterConstants_trigger_otml_updater_did_check_blocking_update_available;
+
+extern NSString* const c_OTMLUpdaterConstants_trigger_otml_updater_did_finish_update_available;
+
+extern NSString* const c_OTMLUpdaterConstants_trigger_otml_updater_did_finish_blocking_update_available;
+
+extern NSString* const c_OTMLUpdaterConstants_trigger_otml_updater_did_finish_update_not_available;
+
+extern NSString* const c_OTMLUpdaterConstants_trigger_otml_updater_did_fail;
+
+extern NSString* const c_OTMLUpdaterConstants_ds_key_otml_flow_control;
+
+extern NSString* const c_OTMLUpdaterConstants_k_otml_is_offline_flow;
+
+extern NSString* const c_OTMLUpdaterConstants_http_header_blocking_update;
+
+extern NSString* const c_OTMLUpdaterConstants_global_event_otml_update_available;
+
+extern NSString* const c_OTMLUpdaterConstants_global_event_otml_blocking_update;
+
+extern NSString* const c_OTMLUpdaterConstants_global_event_otml_session_expired;
+
+extern NSString* const c_OTMLUpdaterConstants_param_otml_response_type;
+
+extern NSString* const c_OTMLUpdaterConstants_param_otml_response_type_content_update;
+
+extern NSString* const c_OTMLUpdaterConstants_param_otml_response_type_session_expired;
+
+extern NSString* const c_OTMLUpdaterConstants_param_otml_response_type_blocking_update;
+
+extern NSString* const c_OTMLUpdaterConstants_push_otml_updater_cmd;
+
+extern NSString* const c_OTMLUpdaterConstants_push_otml_updater_cmd_update_prefix;
+
+extern NSString* const c_OTMLUpdaterConstants_push_otml_updater_versions;
+
+
+
+@interface OTMLUpdaterConstants : NSObject
+@end

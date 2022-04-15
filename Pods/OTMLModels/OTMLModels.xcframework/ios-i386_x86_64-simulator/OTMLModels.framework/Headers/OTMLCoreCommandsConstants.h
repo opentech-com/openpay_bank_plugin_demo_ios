@@ -1,0 +1,30 @@
+extern NSString* const c_OTMLCoreCommandsConstants_core_command_type_download_file;
+
+extern NSString* const c_OTMLCoreCommandsConstants_core_command_type_close_app;
+
+extern NSString* const c_OTMLCoreCommandsConstants_core_command_type_close_sdk;
+
+extern NSString* const c_OTMLCoreCommandsConstants_core_command_type_otml_back;
+
+extern NSString* const c_OTMLCoreCommandsConstants_core_command_type_restartapp;
+
+extern NSString* const c_OTMLCoreCommandsConstants_core_command_type_execute_trigger;
+
+extern NSString* const c_OTMLCoreCommandsConstants_core_command_type_update_app;
+
+extern NSString* const c_OTMLCoreCommandsConstants_core_command_type_otml_session;
+
+extern NSString* const c_OTMLCoreCommandsConstants_core_command_type_hide_keyboard;
+
+extern NSString* const c_OTMLCoreCommandsConstants_core_command_notify_event;
+
+extern NSString* const c_OTMLCoreCommandsConstants_core_command_notify_event_to_callback;
+
+extern NSString* const c_OTMLCoreCommandsConstants_core_command_notify_event_to_callback_param_result_code;
+
+extern NSString* const c_OTMLCoreCommandsConstants_core_command_notify_event_to_callback_param_result;
+
+
+
+@interface OTMLCoreCommandsConstants : NSObject
+@end

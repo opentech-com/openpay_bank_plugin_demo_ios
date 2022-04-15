@@ -1,0 +1,1 @@
+# openpay_bank_plugin_artifacts

@@ -1,0 +1,26 @@
+extern NSString* const c_OTMLDSCrudCommandsConstants_ds_crud_command_type_replace_ds_field;
+
+extern NSString* const c_OTMLDSCrudCommandsConstants_ds_crud_command_type_ds_copy;
+
+extern NSString* const c_OTMLDSCrudCommandsConstants_ds_crud_command_type_save_as_ds_create;
+
+extern NSString* const c_OTMLDSCrudCommandsConstants_ds_crud_command_type_save_as_ds_update_strict;
+
+extern NSString* const c_OTMLDSCrudCommandsConstants_ds_crud_command_type_save_as_ds_add;
+
+extern NSString* const c_OTMLDSCrudCommandsConstants_ds_crud_command_type_store_ds;
+
+extern NSString* const c_OTMLDSCrudCommandsConstants_ds_crud_command_type_clean_store_ds;
+
+extern NSString* const c_OTMLDSCrudCommandsConstants_ds_crud_command_type_delete;
+
+extern NSString* const c_OTMLDSCrudCommandsConstants_ds_crud_command_type_store;
+
+extern NSString* const c_OTMLDSCrudCommandsConstants_ds_crud_command_type_ds_reset;
+
+extern NSString* const c_OTMLDSCrudCommandsConstants_ds_crud_command_type_json_to_ds;
+
+
+
+@interface OTMLDSCrudCommandsConstants : NSObject
+@end

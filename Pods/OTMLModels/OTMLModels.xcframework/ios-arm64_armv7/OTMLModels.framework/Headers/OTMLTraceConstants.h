@@ -1,0 +1,212 @@
+extern NSString* const c_OTMLTraceConstants_node_base;
+
+extern NSString* const c_OTMLTraceConstants_node_base_device;
+
+extern NSString* const c_OTMLTraceConstants_node_base_app;
+
+extern NSString* const c_OTMLTraceConstants_node_base_trace;
+
+extern NSString* const c_OTMLTraceConstants_node_upd;
+
+extern NSString* const c_OTMLTraceConstants_node_ux;
+
+extern NSString* const c_OTMLTraceConstants_node_ts;
+
+extern NSString* const c_OTMLTraceConstants_node_map;
+
+extern NSString* const c_OTMLTraceConstants_root_trace_version;
+
+extern NSString* const c_OTMLTraceConstants_trace_trace_type;
+
+extern NSString* const c_OTMLTraceConstants_trace_start_time;
+
+extern NSString* const c_OTMLTraceConstants_trace_end_time;
+
+extern NSString* const c_OTMLTraceConstants_trace_total_elapsed;
+
+extern NSString* const c_OTMLTraceConstants_trace_trace_id;
+
+extern NSString* const c_OTMLTraceConstants_trace_type_ux;
+
+extern NSString* const c_OTMLTraceConstants_trace_type_mt;
+
+extern NSString* const c_OTMLTraceConstants_trace_type_upd;
+
+extern NSString* const c_OTMLTraceConstants_trace_type_map;
+
+extern NSString* const c_OTMLTraceConstants_trace_type_ts;
+
+extern NSString* const c_OTMLTraceConstants_node_ux_params;
+
+extern NSString* const c_OTMLTraceConstants_node_ux_validation_err;
+
+extern NSString* const c_OTMLTraceConstants_log_info;
+
+extern NSString* const c_OTMLTraceConstants_log_error;
+
+extern NSString* const c_OTMLTraceConstants_device_is_touchid_available;
+
+extern NSString* const c_OTMLTraceConstants_device_is_passcode_enrolled;
+
+extern NSString* const c_OTMLTraceConstants_device_is_fingerprint_enrolled;
+
+extern NSString* const c_OTMLTraceConstants_device_is_secure_storage_available;
+
+extern NSString* const c_OTMLTraceConstants_device_device_protection_method;
+
+extern NSString* const c_OTMLTraceConstants_device_device_protection_method_unknown;
+
+extern NSString* const c_OTMLTraceConstants_device_device_protection_method_touchid;
+
+extern NSString* const c_OTMLTraceConstants_device_device_protection_method_passcode;
+
+extern NSString* const c_OTMLTraceConstants_device_device_protection_method_none;
+
+extern NSString* const c_OTMLTraceConstants_device_is_protected_data_available;
+
+extern NSString* const c_OTMLTraceConstants_device_network_mode;
+
+extern NSString* const c_OTMLTraceConstants_device_network_mode_wifi;
+
+extern NSString* const c_OTMLTraceConstants_device_network_mode_cell;
+
+extern NSString* const c_OTMLTraceConstants_device_network_mode_other;
+
+extern NSString* const c_OTMLTraceConstants_device_network_mode_none;
+
+extern NSString* const c_OTMLTraceConstants_app_app_state;
+
+extern NSString* const c_OTMLTraceConstants_app_release_type;
+
+extern NSString* const c_OTMLTraceConstants_upd_start;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_start_reason;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_start_reason_startapp;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_start_reason_restartapp;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_start_reason_updateapp;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_start_reason_push;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_start_reason_periodic;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_is_update_async;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_otml_update_policy;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_is_new_installation;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_is_app_update;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_skip_reason;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_skip_reason_updating;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_skip_reason_updated;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_skip_reason_ready;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_skip_reason_disabled_mode;
+
+extern NSString* const c_OTMLTraceConstants_upd_start_doze_mode;
+
+extern NSString* const c_OTMLTraceConstants_upd_end;
+
+extern NSString* const c_OTMLTraceConstants_upd_end_result;
+
+extern NSString* const c_OTMLTraceConstants_upd_end_result_ok;
+
+extern NSString* const c_OTMLTraceConstants_upd_end_result_ko;
+
+extern NSString* const c_OTMLTraceConstants_upd_end_launched_trigger;
+
+extern NSString* const c_OTMLTraceConstants_upd_background;
+
+extern NSString* const c_OTMLTraceConstants_upd_background_original_push_id;
+
+extern NSString* const c_OTMLTraceConstants_upd_background_original_push_ids_array;
+
+extern NSString* const c_OTMLTraceConstants_upd_p0_commit;
+
+extern NSString* const c_OTMLTraceConstants_upd_p0_commit_is_pre_startapp_commit_needed;
+
+extern NSString* const c_OTMLTraceConstants_upd_p0_commit_is_pre_update_commit_needed;
+
+extern NSString* const c_OTMLTraceConstants_upd_p0_commit_update_ready_commit_elapsed;
+
+extern NSString* const c_OTMLTraceConstants_upd_p0_commit_is_post_update_commit_needed;
+
+extern NSString* const c_OTMLTraceConstants_upd_p1_check;
+
+extern NSString* const c_OTMLTraceConstants_upd_p1_check_is_blocking_update;
+
+extern NSString* const c_OTMLTraceConstants_upd_p1_check_is_update_available;
+
+extern NSString* const c_OTMLTraceConstants_upd_p1_check_update_check_elapsed_dec;
+
+extern NSString* const c_OTMLTraceConstants_upd_p2_download;
+
+extern NSString* const c_OTMLTraceConstants_upd_p2_download_num_resources_to_download;
+
+extern NSString* const c_OTMLTraceConstants_upd_p2_download_num_resources_current_manifest;
+
+extern NSString* const c_OTMLTraceConstants_upd_p2_download_num_resources_new_manifest;
+
+extern NSString* const c_OTMLTraceConstants_upd_p2_download_num_resources_to_copy;
+
+extern NSString* const c_OTMLTraceConstants_upd_p2_download_num_resources_duplicates;
+
+extern NSString* const c_OTMLTraceConstants_upd_p2_download_num_bytes_to_download;
+
+extern NSString* const c_OTMLTraceConstants_upd_p2_download_num_resources_missing_in_current;
+
+extern NSString* const c_OTMLTraceConstants_upd_p2_download_num_resources_deleted;
+
+extern NSString* const c_OTMLTraceConstants_upd_p2_download_num_resources_to_copy_from_bundle;
+
+extern NSString* const c_OTMLTraceConstants_upd_p2_download_num_resources_to_copy_from_filesystem;
+
+extern NSString* const c_OTMLTraceConstants_upd_p2_download_resources_download_elapsed;
+
+extern NSString* const c_OTMLTraceConstants_upd_p3_apply;
+
+extern NSString* const c_OTMLTraceConstants_upd_p3_apply_is_update_applied;
+
+extern NSString* const c_OTMLTraceConstants_upd_p3_apply_update_apply_elapsed_dec;
+
+extern NSString* const c_OTMLTraceConstants_upd_p3_apply_is_only_actions_applied;
+
+extern NSString* const c_OTMLTraceConstants_ux_source;
+
+extern NSString* const c_OTMLTraceConstants_ux_target;
+
+extern NSString* const c_OTMLTraceConstants_ux_src_context;
+
+extern NSString* const c_OTMLTraceConstants_ux_dst_context;
+
+extern NSString* const c_OTMLTraceConstants_ux_action_type;
+
+extern NSString* const c_OTMLTraceConstants_ux_trigger;
+
+extern NSString* const c_OTMLTraceConstants_ux_result;
+
+extern NSString* const c_OTMLTraceConstants_ux_result_ok;
+
+extern NSString* const c_OTMLTraceConstants_ux_result_ko;
+
+extern NSString* const c_OTMLTraceConstants_ux_result_validation_err;
+
+extern NSString* const c_OTMLTraceConstants_ux_error;
+
+extern NSString* const c_OTMLTraceConstants_ts_issue_id;
+
+extern NSString* const c_OTMLTraceConstants_ts_issue_id_otml_missing_resource;
+
+extern NSString* const c_OTMLTraceConstants_ts_issue_id_android_mt_fingerprint;
+
+
+
+@interface OTMLTraceConstants : NSObject
+@end

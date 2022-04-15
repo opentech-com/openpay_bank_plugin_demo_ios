@@ -1,0 +1,10 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#define UIColorFromRGB(a,b,c) [UIColor colorWithRed:(double)a/255.0 green:(double)b/255.0 blue:(double)c/255.0 alpha:1.0]

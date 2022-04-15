@@ -1,0 +1,2 @@
+#include "Pods/Target Support Files/Pods-OTBANKPLUGIN_Example/Pods-OTBANKPLUGIN_Example.debug.xcconfig"
+#include "versions.xcconfig"

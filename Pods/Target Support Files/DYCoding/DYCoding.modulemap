@@ -1,0 +1,6 @@
+framework module DYCoding {
+  umbrella header "DYCoding-umbrella.h"
+
+  export *
+  module * { export * }
+}

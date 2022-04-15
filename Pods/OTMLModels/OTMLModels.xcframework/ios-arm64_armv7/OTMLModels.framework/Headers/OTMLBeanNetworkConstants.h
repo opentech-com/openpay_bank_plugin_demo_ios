@@ -1,0 +1,32 @@
+extern NSString* const c_OTMLBeanNetworkConstants_otml_update_on_splash;
+
+extern NSString* const c_OTMLBeanNetworkConstants_otml_update_policy;
+
+extern NSString* const c_OTMLBeanNetworkConstants_otml_periodic_update_enabled;
+
+extern NSString* const c_OTMLBeanNetworkConstants_otml_periodic_update_period;
+
+extern NSString* const c_OTMLBeanNetworkConstants_otml_periodic_update_tolerance;
+
+extern NSString* const c_OTMLBeanNetworkConstants_otml_periodic_update_requires_charging;
+
+extern NSString* const c_OTMLBeanNetworkConstants_otml_push_update_requires_charging;
+
+extern NSString* const c_OTMLBeanNetworkConstants_otml_update_network_timeout;
+
+extern NSString* const c_OTMLBeanNetworkConstants_otml_updater_uses_rest_cookie_store;
+
+extern NSString* const c_OTMLBeanNetworkConstants_otml_get_post_network_timeout;
+
+extern NSString* const c_OTMLBeanNetworkConstants_otml_doc_download_network_timeout;
+
+extern NSString* const c_OTMLBeanNetworkConstants_otml_redirection_policy;
+
+extern NSString* const c_OTMLBeanNetworkConstants_otml_certs;
+
+extern NSString* const c_OTMLBeanNetworkConstants_otml_push_ack_endpoint_mapping;
+
+
+
+@interface OTMLBeanNetworkConstants : NSObject
+@end

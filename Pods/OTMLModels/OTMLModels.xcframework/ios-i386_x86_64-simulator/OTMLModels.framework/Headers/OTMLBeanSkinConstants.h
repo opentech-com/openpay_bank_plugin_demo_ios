@@ -1,0 +1,60 @@
+extern NSString* const c_OTMLBeanSkinConstants_skin_application_background_color;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_error_background_color;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_error_text_top_spacing;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_error_text_font;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_otml_update_progressbar_loading_font;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_otml_update_progressbar_loading_track_color;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_otml_update_progressbar_loading_progress_color;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_toast_font;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_toast_background_color;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_toast_corner_radius;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_toast_padding;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_keyboard_bar_bg_image;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_keyboard_bar_button_image_n;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_keyboard_bar_button_image_p;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_keyboard_bar_bg_color;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_keyboard_bar_prev_button_color_n;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_keyboard_bar_prev_button_color_p;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_keyboard_bar_text_font;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_otml_fullscreen_loading_lottie_animation;
+
+extern NSString* const c_OTMLBeanSkinConstants_bean_app_constants_b1_revealed_color;
+
+extern NSString* const c_OTMLBeanSkinConstants_bean_app_constants_b1_obscured_color;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_otml_tabbar_badge_bg_color;
+
+extern NSString* const c_OTMLBeanSkinConstants_skin_otml_tabbar_badge_text_color;
+
+extern NSString* const c_OTMLBeanSkinConstants_otml_updater_update_progressbar_visibility_mode;
+
+extern NSString* const c_OTMLBeanSkinConstants_otml_updater_update_progressbar_visibility_mode_default;
+
+extern NSString* const c_OTMLBeanSkinConstants_otml_updater_update_progressbar_visibility_mode_always;
+
+extern NSString* const c_OTMLBeanSkinConstants_otml_updater_update_progressbar_visibility_mode_delayed;
+
+extern NSString* const c_OTMLBeanSkinConstants_otml_updater_update_progressbar_visibility_delay;
+
+
+
+@interface OTMLBeanSkinConstants : NSObject
+@end

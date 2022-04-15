@@ -1,0 +1,10 @@
+extern NSString* const c_OTMLComponentCommandsConstants_component_command_type_scroll_to_component_top;
+
+extern NSString* const c_OTMLComponentCommandsConstants_component_command_type_scroll_to_component;
+
+extern NSString* const c_OTMLComponentCommandsConstants_component_command_type_update;
+
+
+
+@interface OTMLComponentCommandsConstants : NSObject
+@end

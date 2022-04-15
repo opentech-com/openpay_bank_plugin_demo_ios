@@ -1,1 +1,0 @@
-# openpay_bank_plugin_demo_ios

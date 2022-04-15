@@ -1,0 +1,32 @@
+extern NSString* const c_OTMLComponentConstants_fill;
+
+extern NSString* const c_OTMLComponentConstants_wrap;
+
+extern NSString* const c_OTMLComponentConstants_accessibility_text;
+
+extern NSString* const c_OTMLComponentConstants_accessibility_hint;
+
+extern NSString* const c_OTMLComponentConstants_accessibility_ios_voiceover_group;
+
+extern NSString* const c_OTMLComponentConstants_accessibility_disabled;
+
+extern NSString* const c_OTMLComponentConstants_accessibility_index;
+
+extern NSString* const c_OTMLComponentConstants_image_slideshow_ds_field_image;
+
+extern NSString* const c_OTMLComponentConstants_image_slideshow_ds_field_display_duration;
+
+extern NSString* const c_OTMLComponentConstants_image_slideshow_ds_field_animation;
+
+extern NSString* const c_OTMLComponentConstants_image_slideshow_ds_field_animation_duration;
+
+extern NSString* const c_OTMLComponentConstants_image_slideshow_ds_field_is_transparent;
+
+extern NSString* const c_OTMLComponentConstants_float_nan;
+
+extern NSString* const c_OTMLComponentConstants_textfield_spacing_pattern_payment_card;
+
+
+
+@interface OTMLComponentConstants : NSObject
+@end
