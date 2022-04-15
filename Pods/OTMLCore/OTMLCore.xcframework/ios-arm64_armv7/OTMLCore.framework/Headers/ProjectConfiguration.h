@@ -3,7 +3,7 @@
 #ifndef ProjectConfigurationOTMLCore_h
 #define ProjectConfigurationOTMLCore_h
 
-	#undef LOGACTIVE
+	#define LOGACTIVE
 	#define LOG_DESTINATION OTMPLoggerProcessor_NSLog
 
 #endif /* ProjectConfigurationOTMLCore_h*/
