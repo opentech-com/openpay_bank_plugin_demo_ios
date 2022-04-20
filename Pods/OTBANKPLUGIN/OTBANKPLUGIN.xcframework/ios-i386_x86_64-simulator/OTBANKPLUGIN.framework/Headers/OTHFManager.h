@@ -8,14 +8,14 @@
 
 
 
-typedef NS_ENUM(NSUInteger, OTSessionTokenRefreshResult) {
+typedef NS_ENUM(NSInteger, OTSessionTokenRefreshResult) {
     /// The card number does not correspond to any recognizable card type.
     OTSessionTokenRefreshResult_SUCCESS=0,
     OTSessionTokenRefreshResult_SESSION_EXPIRED=-1,
     OTSessionTokenRefreshResult_GENERIC_ERROR=-2
 };
 
-typedef NS_ENUM(NSUInteger, OTSCARequestedResult) {
+typedef NS_ENUM(NSInteger, OTSCARequestedResult) {
     /// The card number does not correspond to any recognizable card type.
     OTSCARequestedResult_SUCCESS=0,
     OTSCARequestedResult_GENERIC_ERROR=-1,
