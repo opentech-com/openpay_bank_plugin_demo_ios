@@ -1,0 +1,48 @@
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_timed_trigger_command_type_schedule_trigger;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_timed_trigger_command_type_remove_trigger;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_timed_trigger_command_type_postpone_trigger;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_timed_trigger_command_type_clean_triggers;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_param_unique_id;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_param_type;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_param_delay;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_param_return_list;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_param_expire_timestamp;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_param_full_id;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_param_expired_at_least;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_param_changed_list;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_ds_name;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_ds_prefix;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_trigger_registered_prefix;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_trigger_not_found;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_trigger_postpone_ok;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_trigger_remove_ok;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_trigger_queue;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_trigger_queue_start;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_trigger_queue_end;
+
+extern NSString* const c_OTMLTimedTriggersCommandsConstants_trigger_did_fire;
+
+
+
+@interface OTMLTimedTriggersCommandsConstants : NSObject
+@end

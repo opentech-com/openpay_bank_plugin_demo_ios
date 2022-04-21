@@ -1,0 +1,28 @@
+extern NSString* const c_OTMLActionPickFile_pickfile_action_type;
+
+extern NSString* const c_OTMLActionPickFile_pickfile_trigger_ok;
+
+extern NSString* const c_OTMLActionPickFile_pickfile_trigger_ko_too_big;
+
+extern NSString* const c_OTMLActionPickFile_pickfile_trigger_ko_empty;
+
+extern NSString* const c_OTMLActionPickFile_pickfile_trigger_ko_dismiss_no_selection;
+
+extern NSString* const c_OTMLActionPickFile_pickfile_trigger_ko_generic_error;
+
+extern NSString* const c_OTMLActionPickFile_pickfile_param_types_android;
+
+extern NSString* const c_OTMLActionPickFile_pickfile_param_types_ios;
+
+extern NSString* const c_OTMLActionPickFile_pickfile_param_dspath;
+
+extern NSString* const c_OTMLActionPickFile_pickfile_param_ds_element;
+
+extern NSString* const c_OTMLActionPickFile_pickfile_param_max_size;
+
+extern NSString* const c_OTMLActionPickFile_pickfile_param_ds_element_value_default;
+
+
+
+@interface OTMLActionPickFile : NSObject
+@end

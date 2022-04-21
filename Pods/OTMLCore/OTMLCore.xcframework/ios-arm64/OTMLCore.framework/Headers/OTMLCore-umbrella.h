@@ -1,0 +1,80 @@
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#else
+#ifndef FOUNDATION_EXPORT
+#if defined(__cplusplus)
+#define FOUNDATION_EXPORT extern "C"
+#else
+#define FOUNDATION_EXPORT extern
+#endif
+#endif
+#endif
+
+#import "OTMPCache.h"
+#import "OTMPCacheLru.h"
+#import "NSArray+CountCast.h"
+#import "NSData+DataLengthCast.h"
+#import "NSObject+Delayed.h"
+#import "NSString+LengthCast.h"
+#import "UIApplication+BSMobileProvision.h"
+#import "OTAdvancedEncryptionStandardModes.h"
+#import "OTMLDataEncrypter.h"
+#import "OTMLLuhnCheck.h"
+#import "OTMPAES.h"
+#import "OTMPBase64.h"
+#import "OTMPCryptoUtils.h"
+#import "OTMPMD5.h"
+#import "OTMPPBKDF2.h"
+#import "OTMPRSA.h"
+#import "OTMPRSAKeyUtil.h"
+#import "OTMPSha1.h"
+#import "OTMPSha2.h"
+#import "OTMPSignedString.h"
+#import "OTSignChecker.h"
+#import "OTMPCryptedConfigFilePayloadReader.h"
+#import "OTMPDictionaryUtil.h"
+#import "OTMPOrderedDictionary.h"
+#import "MultiEndpointManager.h"
+#import "OTMLReachability.h"
+#import "OTMPDeviceUtil.h"
+#import "OTMPPasscodeUtil.h"
+#import "OTMPTouchIDManager.h"
+#import "OTStringEncoder.h"
+#import "OTStringUtil.h"
+#import "IBANValidator.h"
+#import "SmartPaymentUtils.h"
+#import "OTMLAmountFormatter.h"
+#import "OTMLDateFormatter.h"
+#import "OTMPNoiseEffectLayer.h"
+#import "OTMPImageUtils.h"
+#import "OTMPKeychainWrapper.h"
+#import "OTMLCoreAppExposedHooks.h"
+#import "OTMLRestartAppAwareProtocol.h"
+#import "OTMPLogger.h"
+#import "OTMPLoggerDefaultDelegate.h"
+#import "OTMPLoggerDefine.h"
+#import "OTMPLoggerProcessor_FilesystemImpl.h"
+#import "OTMPLoggerProcessor_NSLogImpl.h"
+#import "OTMPLoggerProcessor_OthrosImpl.h"
+#import "OTMLCertPinningChecker.h"
+#import "OTMPHTTPSCertificateModel.h"
+#import "OTHTTPMultipartBuilder.h"
+#import "OTHTTPResponse.h"
+#import "OTHTTPTask.h"
+#import "OTMLCore.h"
+#import "OTMLDataStoreHandler.h"
+#import "OTMPFileHandler.h"
+#import "OTMPSecureFileHandler.h"
+#import "OTMLDumpableModuleProtocol.h"
+#import "OTMLReliableQueue.h"
+#import "EDSemver.h"
+#import "OTMacros.h"
+#import "OTMPGzip.h"
+#import "OTMPWatchUtil.h"
+#import "ProjectConfiguration.h"
+#import "OTMLCore.OTVersion.h"
+#import "OTApplePayBridge.h"
+
+FOUNDATION_EXPORT double OTMLCoreVersionNumber;
+FOUNDATION_EXPORT const unsigned char OTMLCoreVersionString[];
+

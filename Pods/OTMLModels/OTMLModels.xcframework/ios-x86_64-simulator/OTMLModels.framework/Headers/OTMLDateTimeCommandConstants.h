@@ -1,0 +1,14 @@
+extern NSString* const c_OTMLDateTimeCommandConstants_otml_device_param_src_id_date_time;
+
+extern NSString* const c_OTMLDateTimeCommandConstants_otml_device_param_current_timestamp;
+
+extern NSString* const c_OTMLDateTimeCommandConstants_otml_device_param_current_timestamp_with_server_offset;
+
+extern NSString* const c_OTMLDateTimeCommandConstants_otml_device_param_device_timezone;
+
+extern NSString* const c_OTMLDateTimeCommandConstants_otml_device_param_device_daylightsaving_time;
+
+
+
+@interface OTMLDateTimeCommandConstants : NSObject
+@end

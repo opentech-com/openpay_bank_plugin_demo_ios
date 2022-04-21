@@ -1,0 +1,44 @@
+extern NSString* const c_OTMLFingerprintConstants_param_touchid_native_popup_reason;
+
+extern NSString* const c_OTMLFingerprintConstants_param_touchid_native_popup_title;
+
+extern NSString* const c_OTMLFingerprintConstants_otml_device_param_was_fingerprints_changed;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_is_touchid_supported;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_is_touchid_available;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_was_passcode_resetted;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_is_keychain_secure_storage_available;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_touch_is_secure_storage_available;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_is_passcode_enrolled;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_is_fingerprint_enrolled;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_device_protection_method;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_device_protection_method_unknown;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_device_protection_method_passcode;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_device_protection_method_none;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_is_device_protected;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_is_device_protected_unknown;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_is_device_protected_true;
+
+extern NSString* const c_OTMLFingerprintConstants_touch_is_device_protected_false;
+
+extern NSString* const c_OTMLFingerprintConstants_param_touchid_authentication_mode;
+
+extern NSString* const c_OTMLFingerprintConstants_param_touchid_invalidate_mode;
+
+
+
+@interface OTMLFingerprintConstants : NSObject
+@end

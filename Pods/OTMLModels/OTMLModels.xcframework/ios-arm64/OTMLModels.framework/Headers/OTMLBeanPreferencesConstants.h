@@ -1,0 +1,26 @@
+extern NSString* const c_OTMLBeanPreferencesConstants_otml_need_skip_animations;
+
+extern NSString* const c_OTMLBeanPreferencesConstants_otml_need_skip_linear_container_animations;
+
+extern NSString* const c_OTMLBeanPreferencesConstants_otml_is_context_enabled;
+
+extern NSString* const c_OTMLBeanPreferencesConstants_otml_is_cache_enabled;
+
+extern NSString* const c_OTMLBeanPreferencesConstants_otml_statusbar_style;
+
+extern NSString* const c_OTMLBeanPreferencesConstants_handle_notify_otml_no_internet_connection_error;
+
+extern NSString* const c_OTMLBeanPreferencesConstants_handle_notify_otml_communication_error;
+
+extern NSString* const c_OTMLBeanPreferencesConstants_otml_cache_size_in_byte;
+
+extern NSString* const c_OTMLBeanPreferencesConstants_handle_notify_otml_session_expired;
+
+extern NSString* const c_OTMLBeanPreferencesConstants_otml_update_loading_type;
+
+extern NSString* const c_OTMLBeanPreferencesConstants_otml_enable_jump_to_error;
+
+
+
+@interface OTMLBeanPreferencesConstants : NSObject
+@end

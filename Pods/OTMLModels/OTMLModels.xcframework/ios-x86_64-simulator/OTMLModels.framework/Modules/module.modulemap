@@ -1,0 +1,6 @@
+framework module OTMLModels {
+  umbrella header "OTMLModels-umbrella.h"
+
+  export *
+  module * { export * }
+}

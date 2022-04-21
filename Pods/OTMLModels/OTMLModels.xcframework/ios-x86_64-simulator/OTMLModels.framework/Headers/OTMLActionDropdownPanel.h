@@ -1,0 +1,46 @@
+extern NSString* const c_OTMLActionDropdownPanel_dropdownpanel_action_type;
+
+extern NSString* const c_OTMLActionDropdownPanel_dropdownpanel_close_action_type;
+
+extern NSString* const c_OTMLActionDropdownPanel_dropdownpanel_trigger_command_type_dismiss_auto;
+
+extern NSString* const c_OTMLActionDropdownPanel_dropdownpanel_trigger_command_type_click_image_right;
+
+extern NSString* const c_OTMLActionDropdownPanel_dropdownpanel_trigger_command_type_did_click;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_background_color;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_font_text_title;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_text_title;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_font_text_body;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_text_body;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_image_button_left;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_image_button_right;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_image_button_right_press;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_duration;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_color_separator_bottom;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_image_left_position;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_image_right_position;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_image_position_value_top;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_image_position_value_bottom;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_image_position_value_center;
+
+extern NSString* const c_OTMLActionDropdownPanel_param_dismiss_previous;
+
+
+
+@interface OTMLActionDropdownPanel : NSObject
+@end

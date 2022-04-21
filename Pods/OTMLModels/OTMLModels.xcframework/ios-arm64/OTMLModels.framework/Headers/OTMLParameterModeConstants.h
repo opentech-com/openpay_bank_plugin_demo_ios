@@ -1,0 +1,234 @@
+extern NSString* const c_OTMLParameterModeConstants_number_format_number;
+
+extern NSString* const c_OTMLParameterModeConstants_number_format_locale;
+
+extern NSString* const c_OTMLParameterModeConstants_number_format_min_digits;
+
+extern NSString* const c_OTMLParameterModeConstants_number_format_max_digits;
+
+extern NSString* const c_OTMLParameterModeConstants_number_format_rounding;
+
+extern NSString* const c_OTMLParameterModeConstants_number_format_is_amount;
+
+extern NSString* const c_OTMLParameterModeConstants_number_format_currency_symbol;
+
+extern NSString* const c_OTMLParameterModeConstants_number_parse_formatted_number;
+
+extern NSString* const c_OTMLParameterModeConstants_number_parse_locale;
+
+extern NSString* const c_OTMLParameterModeConstants_integer_part_number;
+
+extern NSString* const c_OTMLParameterModeConstants_decimal_part_number;
+
+extern NSString* const c_OTMLParameterModeConstants_decimal_part_expected_decimal_digits;
+
+extern NSString* const c_OTMLParameterModeConstants_integer_transform_number;
+
+extern NSString* const c_OTMLParameterModeConstants_integer_transform_rounding;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_src;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_crop_center_x_perc;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_crop_center_y_perc;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_crop_center_x_abs;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_crop_center_y_abs;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_crop_left_offset_abs;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_crop_top_offset_abs;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_crop_width_perc;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_crop_height_perc;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_crop_width_abs;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_crop_height_abs;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_width_perc;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_height_perc;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_width_abs;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_height_abs;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_blur_radius;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_mode;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_mode_fit;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_mode_fill_top_left;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_mode_fill_top_center;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_mode_fill_top_right;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_mode_fill_middle_left;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_mode_fill_middle_center;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_mode_fill_middle_right;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_mode_fill_bottom_left;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_mode_fill_bottom_center;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_scale_mode_fill_bottom_right;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_mirror;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_mirror_v;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_mirror_h;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_rotate_degrees;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_color_multiplication;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_output_image_format;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_output_image_format_png;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_output_image_format_jpg;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_quality;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_output_result;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_upscale;
+
+extern NSString* const c_OTMLParameterModeConstants_image_manipulation_circle_crop;
+
+extern NSString* const c_OTMLParameterModeConstants_cache_etag_list_regex;
+
+extern NSString* const c_OTMLParameterModeConstants_cache_etag_list_cache_id;
+
+extern NSString* const c_OTMLParameterModeConstants_cache_etag_list_json_cache_id;
+
+extern NSString* const c_OTMLParameterModeConstants_cache_etag_list_json_etag;
+
+extern NSString* const c_OTMLParameterModeConstants_change_case_input;
+
+extern NSString* const c_OTMLParameterModeConstants_change_case_case;
+
+extern NSString* const c_OTMLParameterModeConstants_date_add_timestamp;
+
+extern NSString* const c_OTMLParameterModeConstants_date_add_field;
+
+extern NSString* const c_OTMLParameterModeConstants_date_add_field_day;
+
+extern NSString* const c_OTMLParameterModeConstants_date_add_field_week;
+
+extern NSString* const c_OTMLParameterModeConstants_date_add_field_month;
+
+extern NSString* const c_OTMLParameterModeConstants_date_add_field_year;
+
+extern NSString* const c_OTMLParameterModeConstants_date_add_field_hour;
+
+extern NSString* const c_OTMLParameterModeConstants_date_add_field_minute;
+
+extern NSString* const c_OTMLParameterModeConstants_date_add_field_second;
+
+extern NSString* const c_OTMLParameterModeConstants_date_add_value;
+
+extern NSString* const c_OTMLParameterModeConstants_iban_format_iban;
+
+extern NSString* const c_OTMLParameterModeConstants_string_lenght_string;
+
+extern NSString* const c_OTMLParameterModeConstants_otml_secure_storage_read_entry;
+
+extern NSString* const c_OTMLParameterModeConstants_otml_secure_storage_read_default_value;
+
+extern NSString* const c_OTMLParameterModeConstants_aes_payload;
+
+extern NSString* const c_OTMLParameterModeConstants_aes_key;
+
+extern NSString* const c_OTMLParameterModeConstants_aes_iv;
+
+extern NSString* const c_OTMLParameterModeConstants_aes_mode;
+
+extern NSString* const c_OTMLParameterModeConstants_aes_mode_encrypt;
+
+extern NSString* const c_OTMLParameterModeConstants_aes_mode_decrypt;
+
+extern NSString* const c_OTMLParameterModeConstants_aes_decode_output_b64;
+
+extern NSString* const c_OTMLParameterModeConstants_aes_decode_input_b64;
+
+extern NSString* const c_OTMLParameterModeConstants_split_text;
+
+extern NSString* const c_OTMLParameterModeConstants_split_separator;
+
+extern NSString* const c_OTMLParameterModeConstants_split_index;
+
+extern NSString* const c_OTMLParameterModeConstants_rsa_encrypt_public_key;
+
+extern NSString* const c_OTMLParameterModeConstants_random_string_chars;
+
+extern NSString* const c_OTMLParameterModeConstants_random_string_len;
+
+extern NSString* const c_OTMLParameterModeConstants_random_string_secure;
+
+extern NSString* const c_OTMLParameterModeConstants_parse_phone_number_number;
+
+extern NSString* const c_OTMLParameterModeConstants_parse_phone_number_locale_default;
+
+extern NSString* const c_OTMLParameterModeConstants_parse_phone_number_country_prefix;
+
+extern NSString* const c_OTMLParameterModeConstants_parse_phone_number_country_iso;
+
+extern NSString* const c_OTMLParameterModeConstants_get_rsa_publickey_key_id;
+
+extern NSString* const c_OTMLParameterModeConstants_rsa_decrypt_key_id;
+
+extern NSString* const c_OTMLParameterModeConstants_rsa_decrypt_payload;
+
+extern NSString* const c_OTMLParameterModeConstants_rsa_decrypt_decode_input_b64;
+
+extern NSString* const c_OTMLParameterModeConstants_rsa_decrypt_encode_output_b64;
+
+extern NSString* const c_OTMLParameterModeConstants_otml_file_storage_filename;
+
+extern NSString* const c_OTMLParameterModeConstants_otml_file_storage_read_default_value;
+
+extern NSString* const c_OTMLParameterModeConstants_image_from_text_text;
+
+extern NSString* const c_OTMLParameterModeConstants_image_from_text_bg_image;
+
+extern NSString* const c_OTMLParameterModeConstants_image_from_text_font;
+
+extern NSString* const c_OTMLParameterModeConstants_image_from_text_bg_image_min_width;
+
+extern NSString* const c_OTMLParameterModeConstants_image_from_text_bg_image_min_height;
+
+extern NSString* const c_OTMLParameterModeConstants_payment_card_formatter_number;
+
+extern NSString* const c_OTMLParameterModeConstants_payment_card_formatter_bin;
+
+extern NSString* const c_OTMLParameterModeConstants_payment_card_formatter_obfuscation_character;
+
+extern NSString* const c_OTMLParameterModeConstants_payment_card_formatter_number_length;
+
+extern NSString* const c_OTMLParameterModeConstants_payment_card_formatter_last_digits;
+
+extern NSString* const c_OTMLParameterModeConstants_payment_card_formatter_bin_to_show;
+
+extern NSString* const c_OTMLParameterModeConstants_payment_card_type_input;
+
+extern NSString* const c_OTMLParameterModeConstants_payment_card_type_strong_resolution;
+
+extern NSString* const c_OTMLParameterModeConstants_payment_card_type_strong_region;
+
+extern NSString* const c_OTMLParameterModeConstants_payment_card_type_strong_region_eu;
+
+extern NSString* const c_OTMLParameterModeConstants_payment_card_type_strong_region_global;
+
+
+
+@interface OTMLParameterModeConstants : NSObject
+@end

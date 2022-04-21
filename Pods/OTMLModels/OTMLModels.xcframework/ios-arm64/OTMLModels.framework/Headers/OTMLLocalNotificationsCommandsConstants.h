@@ -1,0 +1,50 @@
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_command_type_otml_add_local_notification;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_command_type_otml_remove_local_notification;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_command_type_otml_postpone_local_notification;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_command_type_otml_clean_local_notification;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_param_type;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_param_unique_id;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_param_full_id;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_param_title;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_param_text;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_param_delay;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_param_return_list;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_param_changed_list;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_param_expired_at_least;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_param_expire_timestamp;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_param_category;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_param_sound;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_param_ios_local_notification_category;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_ds_name;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_ds_prefix;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_trigger_registered_prefix;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_trigger_not_found;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_trigger_postpone_ok;
+
+extern NSString* const c_OTMLLocalNotificationsCommandsConstants_trigger_remove_ok;
+
+
+
+@interface OTMLLocalNotificationsCommandsConstants : NSObject
+@end

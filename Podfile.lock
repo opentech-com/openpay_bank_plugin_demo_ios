@@ -5,11 +5,11 @@ PODS:
   - DYCoding (1.0)
   - libPhoneNumber-iOS (0.9.15)
   - lottie-ios (2.5.3)
-  - OTBANKPLUGIN (0.1.1):
+  - OTBANKPLUGIN (1.0.2):
     - OTML
     - OTMLCore
     - OTMLModels
-  - OTML (0.1.1):
+  - OTML (1.0.2):
     - Charts (= 3.5)
     - DYCoding
     - libPhoneNumber-iOS (~> 0.8)
@@ -20,9 +20,9 @@ PODS:
     - TBXML
     - TOCropViewController
     - ZXingObjC
-  - OTMLCore (0.1.1):
+  - OTMLCore (1.0.2):
     - SAMKeychain
-  - OTMLModels (0.1.1):
+  - OTMLModels (1.0.2):
     - TBXML
   - SAMKeychain (1.5.3)
   - SMJJSONPath (0.2.3)
@@ -57,10 +57,10 @@ SPEC CHECKSUMS:
   DYCoding: d598c00d5900fe069faae3f4002bbf1479f699a1
   libPhoneNumber-iOS: 0a32a9525cf8744fe02c5206eb30d571e38f7d75
   lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
-  OTBANKPLUGIN: 374005c68ac33c1f8ba27355730ade070ea65bc4
-  OTML: 079adf0be2e959923e877138202788625ec543e1
-  OTMLCore: 78d74e840f3fc339135e8f6f78d8ea70bf694472
-  OTMLModels: b6609d9e9ade9a075b675901e9649f072048fb94
+  OTBANKPLUGIN: 536084f391c9878e6eb5a603171c5a092e8ea63f
+  OTML: 42906a3abb005fb3fb43588f1284f7be577028ba
+  OTMLCore: c62e3b8f772e9e71f1da4adf7c2d5dc073466e6a
+  OTMLModels: cd91d2666d1432ec5fea39b454deff67cc0ae7f6
   SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
   SMJJSONPath: f17ad811ebac9f68ea304f89a354c27653975021
   TBXML: 9f9dadb239f2f2af1dadb87fe43a0ce6e479379a

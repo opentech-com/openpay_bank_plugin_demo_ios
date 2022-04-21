@@ -1,0 +1,36 @@
+extern NSString* const c_OTMLTriggersConstants_trigger_will_show;
+
+extern NSString* const c_OTMLTriggersConstants_trigger_did_show;
+
+extern NSString* const c_OTMLTriggersConstants_trigger_did_destroy;
+
+extern NSString* const c_OTMLTriggersConstants_trigger_will_hide;
+
+extern NSString* const c_OTMLTriggersConstants_trigger_did_hide;
+
+extern NSString* const c_OTMLTriggersConstants_trigger_on_load;
+
+extern NSString* const c_OTMLTriggersConstants_trigger_on_first_show;
+
+extern NSString* const c_OTMLTriggersConstants_trigger_on_resume_after_back;
+
+extern NSString* const c_OTMLTriggersConstants_notification_on_restart;
+
+extern NSString* const c_OTMLTriggersConstants_notification_will_restart;
+
+extern NSString* const c_OTMLTriggersConstants_rest_trigger_on_network_ok_response_prefix;
+
+extern NSString* const c_OTMLTriggersConstants_rest_trigger_did_network_ok_response_prefix;
+
+extern NSString* const c_OTMLTriggersConstants_rest_trigger_on_network_http_error_response_prefix;
+
+extern NSString* const c_OTMLTriggersConstants_rest_trigger_on_network_ko_response_prefix;
+
+extern NSString* const c_OTMLTriggersConstants_rest_trigger_upload;
+
+extern NSString* const c_OTMLTriggersConstants_rest_trigger_download;
+
+
+
+@interface OTMLTriggersConstants : NSObject
+@end

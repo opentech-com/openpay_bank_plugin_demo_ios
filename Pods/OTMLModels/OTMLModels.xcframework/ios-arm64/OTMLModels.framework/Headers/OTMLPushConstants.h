@@ -1,0 +1,74 @@
+extern NSString* const c_OTMLPushConstants_bridge_command_type_request_push_id;
+
+extern NSString* const c_OTMLPushConstants_bridge_command_type_request_push_id_param_android_sender_id;
+
+extern NSString* const c_OTMLPushConstants_bridge_command_type_request_push_id_param_push_detail_endpoint;
+
+extern NSString* const c_OTMLPushConstants_bridge_command_type_request_push_id_param_has_now_push_id_key;
+
+extern NSString* const c_OTMLPushConstants_bridge_command_type_request_push_id_param_device_registered_ko_key;
+
+extern NSString* const c_OTMLPushConstants_push_global_trigger_register_ko;
+
+extern NSString* const c_OTMLPushConstants_push_global_trigger_app_has_now_push_id;
+
+extern NSString* const c_OTMLPushConstants_push_global_trigger_download_error;
+
+extern NSString* const c_OTMLPushConstants_push_global_trigger_push_arrived;
+
+extern NSString* const c_OTMLPushConstants_push_global_trigger_push_ready;
+
+extern NSString* const c_OTMLPushConstants_push_global_trigger_push_open_app;
+
+extern NSString* const c_OTMLPushConstants_push_global_trigger_tapped_ready_;
+
+extern NSString* const c_OTMLPushConstants_push_global_trigger_tapped_download_error;
+
+extern NSString* const c_OTMLPushConstants_field_otml_payload;
+
+extern NSString* const c_OTMLPushConstants_field_aps;
+
+extern NSString* const c_OTMLPushConstants_field_alert;
+
+extern NSString* const c_OTMLPushConstants_field_sound;
+
+extern NSString* const c_OTMLPushConstants_field_category;
+
+extern NSString* const c_OTMLPushConstants_field_content_available;
+
+extern NSString* const c_OTMLPushConstants_field_push_id;
+
+extern NSString* const c_OTMLPushConstants_field_del_id;
+
+extern NSString* const c_OTMLPushConstants_field_ack_p;
+
+extern NSString* const c_OTMLPushConstants_field_ack_instrumentid;
+
+extern NSString* const c_OTMLPushConstants_field_ack_type;
+
+extern NSString* const c_OTMLPushConstants_field_ack_fing;
+
+extern NSString* const c_OTMLPushConstants_field_ack_campaign;
+
+extern NSString* const c_OTMLPushConstants_push_ack_endpoint_default;
+
+extern NSString* const c_OTMLPushConstants_push_ack_field_push_id;
+
+extern NSString* const c_OTMLPushConstants_push_ack_field_is_tapped;
+
+extern NSString* const c_OTMLPushConstants_push_ack_field_delivery_id;
+
+extern NSString* const c_OTMLPushConstants_push_ack_field_ack_priority;
+
+extern NSString* const c_OTMLPushConstants_push_ack_field__instrumentid;
+
+extern NSString* const c_OTMLPushConstants_push_ack_field__type;
+
+extern NSString* const c_OTMLPushConstants_push_ack_field__fing;
+
+extern NSString* const c_OTMLPushConstants_push_ack_field__campaign;
+
+
+
+@interface OTMLPushConstants : NSObject
+@end

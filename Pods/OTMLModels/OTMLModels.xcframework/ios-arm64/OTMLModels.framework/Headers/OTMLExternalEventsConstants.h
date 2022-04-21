@@ -1,0 +1,110 @@
+extern NSString* const c_OTMLExternalEventsConstants_event_type_remote_notification;
+
+extern NSString* const c_OTMLExternalEventsConstants_event_type_open_url;
+
+extern NSString* const c_OTMLExternalEventsConstants_event_type_local_notification;
+
+extern NSString* const c_OTMLExternalEventsConstants_event_type_timed_trigger;
+
+extern NSString* const c_OTMLExternalEventsConstants_event_type_sdk_launch;
+
+extern NSString* const c_OTMLExternalEventsConstants_event_type_install_referrer;
+
+extern NSString* const c_OTMLExternalEventsConstants_event_type_open_document_url;
+
+extern NSString* const c_OTMLExternalEventsConstants_event_type_apple_pay;
+
+extern NSString* const c_OTMLExternalEventsConstants_event_type_open_push_transakt;
+
+extern NSString* const c_OTMLExternalEventsConstants_otml_meta_events_ds_prefix;
+
+extern NSString* const c_OTMLExternalEventsConstants_ds_meta_list;
+
+extern NSString* const c_OTMLExternalEventsConstants_otml_event_will_check_ready;
+
+extern NSString* const c_OTMLExternalEventsConstants_otml_event_will_process;
+
+extern NSString* const c_OTMLExternalEventsConstants_otml_event_did_process;
+
+extern NSString* const c_OTMLExternalEventsConstants_otml_event_not_ready_will_enqueue;
+
+extern NSString* const c_OTMLExternalEventsConstants_event_id;
+
+extern NSString* const c_OTMLExternalEventsConstants_event_ds;
+
+extern NSString* const c_OTMLExternalEventsConstants_otml_store_event_ds_prefix;
+
+extern NSString* const c_OTMLExternalEventsConstants_event_type;
+
+extern NSString* const c_OTMLExternalEventsConstants_original_app_state;
+
+extern NSString* const c_OTMLExternalEventsConstants_is_tapped;
+
+extern NSString* const c_OTMLExternalEventsConstants_is_processed;
+
+extern NSString* const c_OTMLExternalEventsConstants_open_document_url_ds_key_url;
+
+extern NSString* const c_OTMLExternalEventsConstants_open_document_url_ds_key_mimetype;
+
+extern NSString* const c_OTMLExternalEventsConstants_open_url_ds_key_path;
+
+extern NSString* const c_OTMLExternalEventsConstants_open_url_ds_key_query;
+
+extern NSString* const c_OTMLExternalEventsConstants_open_url_ds_key_querystring_components;
+
+extern NSString* const c_OTMLExternalEventsConstants_open_url_ds_key_host;
+
+extern NSString* const c_OTMLExternalEventsConstants_open_url_ds_key_port;
+
+extern NSString* const c_OTMLExternalEventsConstants_open_url_ds_key_pathextension;
+
+extern NSString* const c_OTMLExternalEventsConstants_open_url_ds_key_fragment;
+
+extern NSString* const c_OTMLExternalEventsConstants_remote_notification_ds_key_title;
+
+extern NSString* const c_OTMLExternalEventsConstants_remote_notification_ds_key_body;
+
+extern NSString* const c_OTMLExternalEventsConstants_remote_notification_ds_key_sound;
+
+extern NSString* const c_OTMLExternalEventsConstants_remote_notification_ds_key_content_available;
+
+extern NSString* const c_OTMLExternalEventsConstants_open_url_ds_key_url;
+
+extern NSString* const c_OTMLExternalEventsConstants_open_url_ds_key_scheme;
+
+extern NSString* const c_OTMLExternalEventsConstants_remote_notification_ds_key_badge;
+
+extern NSString* const c_OTMLExternalEventsConstants_remote_notification_ds_key_dictionary;
+
+extern NSString* const c_OTMLExternalEventsConstants_ds_notification_category_action_id;
+
+extern NSString* const c_OTMLExternalEventsConstants_command_create_user_notification_category;
+
+extern NSString* const c_OTMLExternalEventsConstants_param_create_category_action1_id;
+
+extern NSString* const c_OTMLExternalEventsConstants_param_create_category_action1_title;
+
+extern NSString* const c_OTMLExternalEventsConstants_param_create_category_action1_ios_destructive;
+
+extern NSString* const c_OTMLExternalEventsConstants_param_create_category_action2_id;
+
+extern NSString* const c_OTMLExternalEventsConstants_param_create_category_action2_title;
+
+extern NSString* const c_OTMLExternalEventsConstants_param_create_category_action2_ios_destructive;
+
+extern NSString* const c_OTMLExternalEventsConstants_remote_notification_ds_action_id;
+
+extern NSString* const c_OTMLExternalEventsConstants_remote_notification_ds_category;
+
+extern NSString* const c_OTMLExternalEventsConstants_sdk_launch_scheme;
+
+extern NSString* const c_OTMLExternalEventsConstants_install_referrer_raw_referrer;
+
+extern NSString* const c_OTMLExternalEventsConstants_install_referrer_referrer_params;
+
+extern NSString* const c_OTMLExternalEventsConstants_action_forget_install_referrer;
+
+
+
+@interface OTMLExternalEventsConstants : NSObject
+@end

@@ -105,5 +105,5 @@ install_xcframework() {
   echo "Copied $source to $destination"
 }
 
-install_xcframework "${PODS_ROOT}/OTBANKPLUGIN/OTBANKPLUGIN.xcframework" "OTBANKPLUGIN" "framework" "ios-i386_x86_64-simulator" "ios-arm64_armv7"
+install_xcframework "${PODS_ROOT}/OTBANKPLUGIN/OTBANKPLUGIN.xcframework" "OTBANKPLUGIN" "framework" "ios-x86_64-simulator" "ios-arm64"
 
